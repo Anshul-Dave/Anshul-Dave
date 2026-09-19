@@ -6,33 +6,55 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahdave1573-dev&color=blue&style=flat-square" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/anshul-dave-3a0a18345/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahdave1573@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🎓 **Education:** BCA Graduate @ Atmiya University, Rajkot (**CGPA: 8.23**) — Class of 2026
-* 🚀 **Specialization:** Building Android Applications & Full-Stack Web Applications
-* 🌱 **Currently Learning:** Advanced Android Development & Scalable Backend APIs
+* 🎓 **Education:** MCA Student & BCA Graduate (CGPA: 8.23) @ Atmiya University, Rajkot
+* 🏆 **Achievement:** 2nd Runner-Up & Team Leader for Team Phantom at ADSC Hackathon 2.0
+* 🚀 **Specialization:** Building robust Android applications and scalable full-stack web solutions
+* 💼 **Professional Experience:** Software Development Intern at Ideate Web Solutions
 * 📫 **Contact:** [ahdave1573@gmail.com](mailto:ahdave1573@gmail.com)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <b>Languages:</b> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <b>Frameworks & Web:</b> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38Bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+<p>
+  <b>Databases & Tools:</b> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
@@ -40,12 +62,12 @@
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| **All in One Bazaar** | Comprehensive e-commerce marketplace platform | PHP, MySQL, JS | [View Project](https://github.com/ahdave1573-dev/All-in-One-Bazaar) |
-| **DigitalBazaar** | Full-stack online shopping ecosystem | PHP, MySQL, JS | [View Project](https://github.com/ahdave1573-dev/Digital-Bazaar) |
+| **CamAlert** | Smart home security app with face detection & live streaming | Java, CameraX, ML Kit, Agora | *Private / In Dev* |
+| **FamilyTracker** | Real-time GPS tracking app *(Hackathon 2nd Runner-Up)* | Java, Firebase, Maps SDK | [View Project](https://github.com/ahdave1573-dev/Family_Tracker_) |
+| **ProjectsTask** | Task management and Kanban board web application | Next.js, React, TypeScript | [View Project](https://github.com/ahdave1573-dev/projecttask) |
+| **All in One Bazaar** | Comprehensive e-commerce marketplace platform | PHP, MySQL, JavaScript | [View Project](https://github.com/ahdave1573-dev/All-in-One-Bazaar) |
+| **SmartDocumentMerge** | Web-based document utility & merge platform | Python, Flask, SQLite | [View Project](https://github.com/ahdave1573-dev/SmartDocumentMerge) |
 | **QuickBite** | Online food ordering system | PHP, MySQL | [View Project](https://github.com/ahdave1573-dev/QuickBite-Online-Food-Ordering-System) |
-| **SmartDocumentMerge** | Web-based document merge tool | Python, Flask | [View Project](https://github.com/ahdave1573-dev/SmartDocumentMerge) |
-| **FamilyTracker** | Android family tracking application | Java, Firebase | [View Project](https://github.com/ahdave1573-dev/Family_Tracker_) |
-| **SkyJumper Game** | 2D Android jumping game (60fps) | Java, Android | ⏳ *Coming Soon* |
 
 ---
 
@@ -64,7 +86,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/anshul-dave-3a0a18345/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
