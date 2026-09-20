@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Hi%20there%2C%20I%27m%20Anshul%20Dave&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%26%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I%20am%20Anshul%20Dave&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%26%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Anshul-Dave&color=blueviolet&style=for-the-badge)](https://github.com/Anshul-Dave)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul--dave/)
