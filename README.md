@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=180&section=header" width="100%"/>
 
 # Hi there, I'm Anshul Dave 👋
 ### Android Developer & Full-Stack Web Developer
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Graduate (CGPA: 8.23) & MCA Student @ Atmiya University, Rajkot
+- 🎓 MCA Student & BCA Graduate (Grade: A+) @ Atmiya University, Rajkot
 - 🏆 2nd Runner-Up & Team Leader, **Team Phantom** — ADSC Hackathon 2.0
 - 🔭 Currently building **CamAlert** — a smart home security app with real-time face detection
 - 🌱 Learning **Next.js**, **TypeScript**, and scalable Android architecture
@@ -80,6 +80,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul--dave/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahdave1573@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=100&section=footer" width="100%"/>
 
 </div>
