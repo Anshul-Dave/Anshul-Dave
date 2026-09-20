@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Anshul Dave 👋
-### Android Developer & Full-Stack Web Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Hi%20there,%20I'm%20Anshul%20Dave%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%26%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Anshul-Dave&color=blueviolet&style=for-the-badge)](https://github.com/Anshul-Dave)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul--dave/)
@@ -40,7 +39,10 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Currently learning:** Next.js · TypeScript · React
+**Currently Learning**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
@@ -74,5 +76,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul--dave/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahdave1573@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=100&section=footer" width="100%"/>
 
 </div>
